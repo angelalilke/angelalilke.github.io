@@ -1,3 +1,52 @@
-p{
-  color: red;
-  }
+body {
+	font: 16px Helvetica, Sans-Serif;
+	background: url(https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiCkIbghJfiAhUhVt8KHcNeAzQQjRx6BAgBEAU&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fgrey%2520background%2F&psig=AOvVaw3199-N-RdTYSLZW-2YIO0X&ust=1557786404498752);
+}
+
+#picture {
+	float: right;
+  height: 150px;
+}
+
+#container {
+	margin-top: 20px;
+	margin-left: 200px;
+	margin-right: 200px;
+	padding: 10px 100px 10px 100px;
+	border-radius: 8px;
+	background-color:lightgray;
+}
+
+#contact {
+	font-size: 42px;
+	font-weight: bold;
+	border-bottom: 1px solid black;
+}
+
+#summarycontent {
+
+	font-style: italic;
+	font-size: 20px;
+}
+
+#summarycontent2 {
+	font-size: 16px;
+}
+
+#header {
+	font-size: 28px;
+}
+
+
+.date {
+	float: right;
+}
+
+h3 {
+	border-bottom: 1px solid black;
+}
+
+h4{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
